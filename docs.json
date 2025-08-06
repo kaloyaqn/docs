@@ -50,7 +50,7 @@
           }
         ]
       }
-    ],
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
@@ -68,17 +68,5 @@
       "label": "Администрация",
       "href": "https://stendo.bg/dashboard"
     }
-  },
-  "contextual": {
-    "options": [
-      "copy",
-      "view",
-      "chatgpt",
-      "claude",
-      "perplexity",
-      "mcp",
-      "cursor",
-      "vscode"
-    ]
-  },
+  }
 }
